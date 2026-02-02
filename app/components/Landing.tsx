@@ -17,7 +17,7 @@ export default function Landing() {
                 </div>
             </div>
             <div className="">
-                <h1 className="text-white text-[17rem] absolute bottom-0 leading-1 text-center w-full">
+                <h1 className="text-white text-[17rem] absolute leading-0 bottom-30 text-center w-full">
                     Greenova
                 </h1>
             </div>
