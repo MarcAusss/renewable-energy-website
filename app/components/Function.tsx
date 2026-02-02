@@ -41,7 +41,7 @@ export default function Function() {
 
 
     return (
-        <div className="my-10 max-w-7xl mx-auto px-4">
+        <div className="my-16 max-w-7xl mx-auto px-4">
             <div className="">
                 <h1 className="px-5 py-2 text-sm rounded-full border w-fit border-gray-300">
                 Why it Works
