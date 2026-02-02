@@ -40,7 +40,7 @@ export default function Faq() {
 
 
     return (
-        <div className="my-16 max-w-7xl mx-auto px-4">
+        <div className="py-16 max-w-7xl mx-auto px-4">
             <div className="grid grid-cols-1 md:grid-cols-[1fr_2fr] gap-10 items-start">
                 <div className="flex justify-between flex-col h-full">
                     <div className="mb-4">
